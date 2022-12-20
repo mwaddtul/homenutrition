@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tentang aplikasi
 
-Aplikasi homenutrisi yang memiliki fitur konsultasi dapat memberikan kelebihan bagi penggunanya karena dapat memberikan saran dan rekomendasi nutrisi yang sesuai dengan kebutuhan dan tujuan individu. Beberapa kelebihan yang dapat ditawarkan oleh aplikasi seperti ini adalah:
+Aplikasi hssssssssssssssomenutrisi yang memiliki fitur konsultasi dapat memberikan kelebihan bagi penggunanya karena dapat memberikan saran dan rekomendasi nutrisi yang sesuai dengan kebutuhan dan tujuan individu. Beberapa kelebihan yang dapat ditawarkan oleh aplikasi seperti ini adalah:
 
 Konsultasi nutrisi yang lebih terarah: Pengguna dapat berkonsultasi langsung dengan ahli gizi atau nutrisi yang terlatih untuk mendapatkan saran dan rekomendasi yang lebih spesifik dan tepat sesuai dengan kebutuhan dan tujuan individu.
 
