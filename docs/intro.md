@@ -4,13 +4,14 @@ sidebar_position: 1
 
 # Tentang aplikasi
 
-A home nutrition application could be a tool that helps people plan, shop for, and prepare healthy meals at home. It could have a variety of features, such as:
+Aplikasi homenutrisi yang memiliki fitur konsultasi dapat memberikan kelebihan bagi penggunanya karena dapat memberikan saran dan rekomendasi nutrisi yang sesuai dengan kebutuhan dan tujuan individu. Beberapa kelebihan yang dapat ditawarkan oleh aplikasi seperti ini adalah:
 
-A recipe database with a range of options to suit different dietary preferences and restrictions (e.g. vegetarian, gluten-free, low-carb, etc.)
-A meal planning feature that helps users create a weekly or monthly meal plan based on their preferences and schedule
-A grocery list generator that creates a shopping list based on the selected recipes
-Nutritional information for each recipe, including calorie counts, macronutrient breakdowns, and other details
-Tips and tricks for cooking and meal prep, such as how to store ingredients, how to cook different types of food, and how to make meals in advance
-Integration with other apps or devices, such as a smart kitchen scale or a fitness tracker
-Option to customize recipes based on the ingredients and equipment available, so users can make the most of what they have on hand
-This is just one possible example of what a home nutrition application could offer. There are many other potential features and functions that such an app could have.
+Konsultasi nutrisi yang lebih terarah: Pengguna dapat berkonsultasi langsung dengan ahli gizi atau nutrisi yang terlatih untuk mendapatkan saran dan rekomendasi yang lebih spesifik dan tepat sesuai dengan kebutuhan dan tujuan individu.
+
+Dukungan yang lebih personal: Aplikasi ini dapat menyediakan dukungan yang lebih personal dan terus-menerus bagi pengguna dibandingkan dengan hanya mengandalkan informasi umum yang tersedia di internet.
+
+Lebih mudah mengikuti program nutrisi: Aplikasi ini dapat membantu pengguna mengikuti program nutrisi yang telah direkomendasikan oleh ahli nutrisi dengan mudah, karena aplikasi dapat memberikan reminder untuk mengonsumsi makanan yang telah ditentukan, serta memberikan informasi tentang jenis makanan yang harus dikonsumsi.
+
+Mengukur hasil secara lebih efektif: Aplikasi ini dapat membantu pengguna untuk mengukur hasil program nutrisi yang sedang dilakukan, dengan memberikan laporan secara teratur tentang perkembangan berat badan dan indeks massa tubuh (IMT).
+
+Mengurangi stres: Aplikasi ini dapat membantu pengguna untuk mengelola stres yang mungkin timbul saat mengikuti program nutrisi dengan memberikan saran dan rekomendasi untuk mengatasi stres, seperti mengonsumsi makanan yang sehat dan melakukan aktivitas fisik yang sesuai.
